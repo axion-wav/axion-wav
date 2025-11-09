@@ -1,5 +1,1 @@
-  
-  collide  
-  past the speed of light  
-  ultraviolet  
-  
+what it feels like
