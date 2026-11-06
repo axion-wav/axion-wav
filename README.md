@@ -1,9 +1,10 @@
 **Languages or Frameworks I know/have used:**
-- C#
-- Python
+- C# (standalone and in Unity)
+- Python (including FastAPI, playwright, selenium, llama-cpp)
 - Java
 - C++
 - JavaScript
+- TypeScript
 - Next.js/React
 - Svelte
 - x86-64 Assembly
